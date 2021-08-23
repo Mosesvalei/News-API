@@ -1,0 +1,28 @@
+.form-control{
+    padding: 5px;
+    border-radius: 0px;
+    font-size: 16px;
+  }
+  .landing{
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:right;
+    background-position: bottom;
+    height: 70%;
+  }
+  .title{
+    margin-top: 0 auto;
+    padding-top: 120px;
+    font-size: 45px;
+  }
+
+  div.card.article{
+    box-shadow: 2px 4px 12px 2px #DCDCDC;
+    padding-bottom: 1rem;
+    border-radius: 0px;
+    height: 620px;
+    margin: 0px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
